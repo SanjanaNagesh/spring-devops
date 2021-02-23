@@ -21,7 +21,7 @@ public class Product {
 	private String Description;
 
 	public Product() {
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public Product(String productName, Double price, String description) {
