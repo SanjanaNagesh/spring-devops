@@ -10,9 +10,9 @@
 	
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.0</version>
 
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring-devops</name>
 	<description>Devops</description>
 	<properties>
