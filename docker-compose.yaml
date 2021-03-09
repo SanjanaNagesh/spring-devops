@@ -18,8 +18,8 @@ services:
   sring-devops: 
     depends_on:
       - db
-    image: spring-devops
-    container_name: spring-devops-cont      
+    image: springboot-devops
+    container_name: springboot-devops-cont      
    
     ports:
       - "8089:8089"     
